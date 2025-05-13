@@ -4,9 +4,9 @@ Built with React.js for the user interface, Appwrite for the Trending Movies Alg
 
 ## ⚙️ Tech Stack
 
-React.js
-Appwrite
-Tailwind CSS
+👉 React.js
+👉 Appwrite
+👉 Tailwind CSS
 
 ## 🔋 Features
 
